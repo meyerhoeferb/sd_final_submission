@@ -33,3 +33,15 @@ David was born and grew up in Guatemala until he came to the US to study at Geor
 ## Writing Assignments
 
 [Final Report](writing/final_report.docx)
+
+[Braden Writing 1](writing/bradenMeyerhoeferWritingOne.docx)
+
+[David Writing 1](writing/David_Alejos_Writing_1.docx)
+
+[Jason Writing 1](writing/JiaweiZhangWriting1.docx)
+
+[Writing 2](writing/Writing2.docx)
+
+[Writing 3](writing/Writing3.docx)
+
+[Writing 3 Revised](writing/Writing3Revised.docx)
