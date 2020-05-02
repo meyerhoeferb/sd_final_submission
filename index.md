@@ -6,6 +6,8 @@
 
 ### Braden Meyerhoefer
 
+Braden grew up in Shaker Heights, Ohio before coming to study computer science at GW. While at GW he was a part of the Honors Program and was a captain on the club baseball team. In his free time he enjoys working out, playing video/board games, and reading. Following graduation he will be in Boston working for Ernst & Young as a technology consultant.
+
 <p float="center">
     <img src="media/david_profile.png" alt="david" width="150"/>
 </p>
