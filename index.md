@@ -1,9 +1,9 @@
 ## **Our Team**
 
 <p float="center">
-    <img src="media/braden_profile.png" alt="braden" width="300"/>
-    <img src="media/david_profile.png" alt="david" width="300"/>
-    <img src="media/braden_profile.png" alt="jason" width="300"/>
+    <img src="media/braden_profile.png" alt="braden" width="150"/>
+    <img src="media/david_profile.png" alt="david" width="150"/>
+    <img src="media/braden_profile.png" alt="jason" width="150"/>
 </p>
 
 ### Braden Meyerhoefer
