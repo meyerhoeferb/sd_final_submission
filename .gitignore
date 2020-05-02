@@ -1,0 +1,26 @@
+codenser/agent/target/*.jar
+
+codenser/other/target/classes/
+
+codenser/other/target/classes/other/
+
+codenser/other/target/other-0.1-SNAPSHOT.jar
+
+codenser/execution_trace/data/agent_output.txt
+
+codenser/execution_trace/data/graph_matrix.csv
+
+codenser/visual/graph_data.txt
+
+codenser/visual/Graph_Matrix.csv
+
+codenser/summarization/sum_output.csv
+codenser/summarization/summarization_output.csv
+
+codenser/other/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+
+codenser/P
+codenser/V
+
+#no class files
+*.class
