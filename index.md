@@ -4,7 +4,7 @@
 
 ![profile picture for david](/media/david_profile.png)*David Alejos*
 
-![profile picture for jason](/media/sd_braden_profile.png)*Jason Zhang*
+![profile picture for jason](/media/braden_profile.png)*Jason Zhang*
 
 
 ### Braden Meyerhoefer
