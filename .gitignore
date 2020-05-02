@@ -18,6 +18,13 @@ codenser/summarization/sum_output.csv
 codenser/summarization/summarization_output.csv
 
 codenser/other/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+codenser/agent/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+codenser/agent/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+codenser/other/target/other-0.1-SNAPSHOT.jar
+codenser/agent/target/agent-0.1-SNAPSHOT.jar
+codenser/agent/target/original-agent-0.1-SNAPSHOT.jar
+codenser/execution_trace/data/agent_output.txt
+codenser/execution_trace/data/graph_matrix.csv
 
 codenser/P
 codenser/V
