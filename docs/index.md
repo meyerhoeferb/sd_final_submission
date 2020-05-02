@@ -1,4 +1,4 @@
-##**Our Team**
+## **Our Team**
 
-###Braden Meyerhoefer
-![Semantic description of image](/media/sd_braden_profile.png "Braden")
+### Braden Meyerhoefer
+![profile picture for braden](/docs/media/sd_braden_profile.png "Braden")
