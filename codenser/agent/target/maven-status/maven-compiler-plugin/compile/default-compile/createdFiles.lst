@@ -1,0 +1,5 @@
+agent/Agent.class
+agent/Agent$1.class
+agent/Tracer.class
+agent/ClassPrinter.class
+agent/MethodTracer.class
