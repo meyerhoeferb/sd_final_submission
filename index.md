@@ -1,6 +1,6 @@
 ## **Our Team**
 
-![profile picture for braden](/media/braden_profile.png | width=100)*Braden Meyerhoefer*
+<img src="/media/braden_profile.png" alt="braden" width="100" height="100">
 
 ![profile picture for david](/media/david_profile.png =250x250)*David Alejos*
 
