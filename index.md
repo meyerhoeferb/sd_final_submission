@@ -20,7 +20,9 @@ David was born and grew up in Guatemala until he came to the US to study at Geor
     <img src="media/jason_profile.jpg" alt="jason" width="150"/>
 </p>
 
-### Jason Zhang
+### Jiawei Zhang
+
+Jiawei Zhang graduated from GW with a degree in CS. He really enjoyed the time in University and have learnt a lot throughout his four years there. In addition, he has benefited so much from all the classes offered by the CS department and these classes truly prepared him for his future career. During his free time, he likes playing basketball and other sports as well as cooking. His goal is to start his own company at some point in the future.
 
 ## Demo
 
