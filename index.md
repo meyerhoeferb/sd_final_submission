@@ -34,16 +34,16 @@ Jiawei Zhang graduated from GW with a degree in CS. He really enjoyed the time i
 
 ## Writing Assignments
 
-[Final Report](writing/final_report.docx)
+[Final Report](writing/final_report.pdf)
 
-[Braden Writing 1](writing/bradenMeyerhoeferWritingOne.docx)
+[Braden Writing 1](writing/bradenMeyerhoeferWritingOne.pdf)
 
-[David Writing 1](writing/David_Alejos_Writing_1.docx)
+[David Writing 1](writing/David_Alejos_Writing_1.pdf)
 
-[Jason Writing 1](writing/JiaweiZhangWriting1.docx)
+[Jason Writing 1](writing/JiaweiZhangWriting1.pdf)
 
-[Writing 2](writing/Writing2.docx)
+[Writing 2](writing/Writing2.pdf)
 
-[Writing 3](writing/Writing3.docx)
+[Writing 3](writing/Writing3.pdf)
 
-[Writing 3 Revised](writing/Writing3Revised.docx)
+[Writing 3 Revised](writing/Writing3Revised.pdf)
